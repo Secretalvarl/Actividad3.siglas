@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.cua {
+   
+   width: 200px;
+   height: 200px;
+   margin: 20rem;
+   background-color: green;
+   padding: 1rem green;
+   box-shadow: -20px -20px 0px blue, -40px -40px 0px red;
+   
+   }
